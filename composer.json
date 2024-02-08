@@ -24,6 +24,7 @@
     },
     "require-dev": {
         "doctrine/annotations": "^1.0",
+        "doctrine/lexer": "^1.0 || ^2.0 || ^3.0",
         "friendsofphp/php-cs-fixer": "^2.0",
         "friendsofsymfony/rest-bundle": "^2.0",
         "phpunit/phpunit": "^5.4 || ^6.5 || ^9.5",
